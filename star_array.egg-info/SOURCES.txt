@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+star/__init__.py
+star/star.py
+star_array.egg-info/PKG-INFO
+star_array.egg-info/SOURCES.txt
+star_array.egg-info/dependency_links.txt
+star_array.egg-info/top_level.txt
