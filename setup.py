@@ -4,7 +4,7 @@ long_description = 'Powerful arrays in Python - https://github.com/nayakrujul/st
 
 setup(
   name = 'star-array',
-  version = '0.1',
+  version = '1.0',
   license='Apache',
   description = 'Powerful arrays in Python',
   author = 'Rujul Nayak',
