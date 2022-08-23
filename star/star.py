@@ -256,4 +256,12 @@ class Array:
                         StarError(f"an error occurred"))
                 return wrapper
         return El(self.__list, self.__dtype)
+    
+    def where(self, match=True):
+        try:
+            return Array([i for i, x in enumerate(self) if x == match])
+        except:
+            pass
+        raise (
+            StarError(f"an error occurred"))
         
