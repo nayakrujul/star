@@ -49,6 +49,16 @@ print(a % 3 == 0)
 
 Output: `Array([True, False, False, True, False, False, True, False, False, True])`
 
+### Get indexes of matches
+
+```python
+print(star.Array.where(a % 3 == 0))
+```
+
+Output: `Array([0, 3, 6, 9])`
+
+Note: the second parameter, match, is the element which it looks for. It defaults to `True`.
+
 ### Get methods of elements
 
 ```python
