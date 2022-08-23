@@ -9,7 +9,7 @@ setup(
   description = 'Powerful arrays in Python',
   author = 'Rujul Nayak',
   author_email = 'rujulnayak@outlook.com',
-  url = 'https://github.com/nayakrujul/nested-tools',
+  url = 'https://github.com/nayakrujul/star',
   download_url = 'https://github.com/nayakrujul/star/archive/refs/tags/v_01.tar.gz',
   keywords = ['array'],
   install_requires=[
