@@ -59,6 +59,12 @@ Output: `Array([0, 3, 6, 9])`
 
 Note: the second parameter, match, is the element which it looks for. It defaults to `True`.
 
+```python
+print(star.Array(['a', 'b', 'a', 'b', 'a']).where('a'))
+```
+
+Output: `Array([0, 2, 4])`
+
 ### Get methods of elements
 
 ```python
