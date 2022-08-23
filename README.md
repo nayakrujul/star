@@ -66,3 +66,7 @@ print(b)
 ```
 
 Output: `Array(['foo', 'bar', 'baz', 'something', 'else'])`
+
+### Notes
+
+All elements in the array must be of the same type. A `StarError` may be raised if this condition is not met.
