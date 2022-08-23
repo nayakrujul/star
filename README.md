@@ -41,6 +41,8 @@ print(a + 5)
 
 Output: `Array([5, 6, 7, 8, 9, 10, 11, 12, 13, 14])`
 
+Supported operations: `+`, `-`, `*`, `/`, `//`, `%`, `<<`, `>>`, `&`, `|`, `~`
+
 ### Perform comparisons to the array
 
 ```python
@@ -48,6 +50,8 @@ print(a % 3 == 0)
 ```
 
 Output: `Array([True, False, False, True, False, False, True, False, False, True])`
+
+Supported operations: `==`, `!=`, `>`, `>=`, `<`, `<=`
 
 ### Get indexes of matches
 
