@@ -1,17 +1,17 @@
 from setuptools import setup, find_packages
 
-long_description = 'Tools for nested lists!'
+long_description = 'Powerful arrays in Python - https://github.com/nayakrujul/star'
 
 setup(
-  name = 'nestedtools',
-  version = '1.1',
+  name = 'star-array',
+  version = '0.1',
   license='Apache',
-  description = 'Tools for nested lists!',
+  description = 'Powerful arrays in Python',
   author = 'Rujul Nayak',
   author_email = 'rujulnayak@outlook.com',
   url = 'https://github.com/nayakrujul/nested-tools',
-  download_url = 'https://github.com/nayakrujul/nested-tools/archive/refs/tags/v_01.tar.gz',
-  keywords = ['nested', 'list', 'tools'],
+  download_url = 'https://github.com/nayakrujul/star/archive/refs/tags/v_01.tar.gz',
+  keywords = ['array'],
   install_requires=[
       ],
   classifiers=[
